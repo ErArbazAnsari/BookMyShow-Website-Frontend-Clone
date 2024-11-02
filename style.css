@@ -28,7 +28,7 @@ body {
 
 .top-bar {
     justify-content: space-between;
-    margin: 20px;
+    margin: 20px 0;
 }
 
 .search input {
